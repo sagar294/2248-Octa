@@ -1,4 +1,4 @@
-# 2248-Merge-Game
+# 2248-Octa
 
 <p align="center">
   <img width="400" src="1.webp">
